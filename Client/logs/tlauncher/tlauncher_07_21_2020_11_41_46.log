@@ -1,0 +1,76 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.72 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 21.07.2020 11:41:49
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 12279 MB RAM
+java path=C:\Users\nyf\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+Intel(R) Core(TM) i7 CPU         960  @ 3.20GHz
+ NVIDIA GeForce GTX 1070, GeForce GTX 1070, 14227 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.72&client=8ea18de1-76dd-4c36-b838-70f23207372e
+[Updater] Request time: 176 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 38 / 149 MB
+Garbage collector completed: 15 / 180 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\nyf\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\nyf\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+[Loading] LOADING_WINDOW
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 297 ms.
+[Browser] Initializing...
+[JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+[Browser@1274819183] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+Started! (4386 ms.)
+[Loading] SUCCESS
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[TLauncher] show tlauncher!!!
+[Double running] clear time label
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 80 ms.
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 17 ms.
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 20 ms.
+[SkinVersionList] Got in 29 ms
+[ExtraVersionList] Got in 61 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 266 ms.
+[OfficialVersionList] Got in 399 ms
+[VersionManager] Versions has been refreshed (448 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 23 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 69 ms.
+Good bye!
+[TLauncherManager] before clearLibrary C:\Users\nyf\AppData\Roaming\.minecraft\mods\Advanced+Solar+Panels-4.3.0_patched.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\buildcraft-compat-7.99.24.6.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\CodeChickenLib-1.14.4-3.2.8.374-universal.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\Forgelin-1.8.4.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.220-ex112.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.63.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.296.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\journeymap-1.12.2-5.7.1.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\logisticspipes-0.10.3.50.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\minecolonies-1.12.2-0.11.804-RELEASE-universal.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\MouseTweaks-2.10-mc1.12.2.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\SetHome.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\ThermalExpansion-1.12.2-5.5.7.1-universal.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\Traverse-1.12.2-1.6.0-69.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\UniDict-1.12.2-2.9.6.jar
+[TLauncherManager] after clearLibrary C:\Users\nyf\AppData\Roaming\.minecraft\mods\Advanced+Solar+Panels-4.3.0_patched.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\buildcraft-compat-7.99.24.6.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\CodeChickenLib-1.14.4-3.2.8.374-universal.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\Forgelin-1.8.4.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.220-ex112.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.63.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.296.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\journeymap-1.12.2-5.7.1.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\logisticspipes-0.10.3.50.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\minecolonies-1.12.2-0.11.804-RELEASE-universal.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\MouseTweaks-2.10-mc1.12.2.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\SetHome.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\ThermalExpansion-1.12.2-5.5.7.1-universal.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\Traverse-1.12.2-1.6.0-69.jar C:\Users\nyf\AppData\Roaming\.minecraft\mods\UniDict-1.12.2-2.9.6.jar
+flush now
